@@ -1,6 +1,6 @@
-#Me chamo Carlos Holanda e esse é o meu perfil no github!
+Me chamo Carlos Holanda e esse é o meu perfil no github!
 
-#Atualmente trabalho no Senai-PE como competidor da world skills edição Shangai 2026 na modalidade computação em nuvem, 
+Atualmente trabalho no Senai-PE como competidor da world skills edição Shangai 2026 na modalidade computação em nuvem, 
 juntamente curso ciencias da computação na Faculdade nova roma
 
 <!--
