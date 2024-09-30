@@ -4,7 +4,7 @@ Atualmente trabalho no Senai-PE como competidor da world skills edição Shangai
 juntamente curso ciências da computação na Faculdade nova roma.
 
 
-<img src="C:\Users\#53Carlos\Downloads\aws-academy-graduate-aws-academy-cloud-foundations.png" alt="aws certificate">
+<img src="aws-academy-graduate-aws-academy-cloud-foundations.png" alt="aws certificate">
 
 
 <!--
