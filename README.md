@@ -4,7 +4,8 @@ Atualmente trabalho no Senai-PE como competidor da world skills edição Shangai
 juntamente curso ciências da computação na Faculdade nova roma.
 
 
-![Descrição da imagem](https://github.com/usuario/repo/raw/main/imagem.png)
+<img loading="lazy" src="" width="40" height="40"/>
+
 
 <!--
 **CarlosHoland4/carlosholand4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
