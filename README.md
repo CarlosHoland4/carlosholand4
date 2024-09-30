@@ -4,7 +4,7 @@ Atualmente trabalho no Senai-PE como competidor da world skills edição Shangai
 juntamente curso ciencias da computação na Faculdade nova roma
 
 
-<img loading="lazy" src="https://www.credly.com/badges/7246b3d7-aa26-4469-8a50-bbba2940f698/public_url" width="40" height="40"/>
+<img loading="awsbadge" src="C:\Users\#53Carlos\Downloads\introduction-to-cybersecurity.png" width="40" height="40"/>
 <!--
 **CarlosHoland4/carlosholand4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
