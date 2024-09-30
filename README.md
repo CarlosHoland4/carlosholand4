@@ -4,7 +4,8 @@ Atualmente trabalho no Senai-PE como competidor da world skills edição Shangai
 juntamente curso ciências da computação na Faculdade nova roma.
 
 Conclui duas certificações da aws e possuo essas duas badges
-<img src="aws-academy-graduate-aws-academy-cloud-foundations.png" alt="aws certificate"> <img src="introduction-to-cybersecurity.png" alt="aws certificate"> 
+<img src="aws-academy-graduate-aws-academy-cloud-foundations.png" alt="aws certificate"> 
+<img src="introduction-to-cybersecurity.png" alt="aws certificate"> 
 
 
 <!--
