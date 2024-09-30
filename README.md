@@ -3,6 +3,8 @@ Me chamo Carlos Holanda e esse é o meu perfil no github!
 Atualmente trabalho no Senai-PE como competidor da world skills edição Shangai 2026 na modalidade computação em nuvem, 
 juntamente curso ciencias da computação na Faculdade nova roma
 
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7246b3d7-aa26-4469-8a50-bbba2940f698" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **CarlosHoland4/carlosholand4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
