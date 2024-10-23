@@ -7,7 +7,7 @@ juntamente curso ciências da computação na Faculdade Nova Roma.
 
 Conclui duas certificações da AWS e possuo essas quatro badges.
 <br>
-<img src="aws-academy-graduate-aws-academy-cloud-foundations.png" alt="aws certificate"> <img src="introduction-to-cybersecurity.png" alt="aws certificate"> //<img src="certificadoarquiteto.png" alt="aws certificate"> 
+<img src="aws-academy-graduate-aws-academy-cloud-foundations.png" alt="aws certificate"> <img src="introduction-to-cybersecurity.png" alt="aws certificate"> 
 </br>
 
 </p>
